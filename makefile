@@ -1,0 +1,5 @@
+SRC = src
+OBJ = OBJ
+UNIT = UNIT
+BIN = BIN
+EXE = RLE
